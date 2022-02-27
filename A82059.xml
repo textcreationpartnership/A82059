@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and resolution of many thousands citizens of London concerning the army, under the command of the Lord Generall Fairfax, and their present proceedings touching the treaty; and the further proceedings of the citizens concerning the papers sent up from the army. Also, ten propositions from His Majesties loyall subjects within the realm of England, to the citizens and army, concerning the reign and goverment of their dread soveraign Lord King Charles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82059</idno>
+            <idno type="STC">Wing D552</idno>
+            <idno type="STC">Thomason E467_18</idno>
+            <idno type="STC">ESTC R205257</idno>
+            <idno type="EEBO-CITATION">99864674</idno>
+            <idno type="PROQUEST">99864674</idno>
+            <idno type="VID">162313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162313)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and resolution of many thousands citizens of London concerning the army, under the command of the Lord Generall Fairfax, and their present proceedings touching the treaty; and the further proceedings of the citizens concerning the papers sent up from the army. Also, ten propositions from His Majesties loyall subjects within the realm of England, to the citizens and army, concerning the reign and goverment of their dread soveraign Lord King Charles.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C.VV. and are to be sole [sic] neer the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 12th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162313:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND RESOLUTION Of many thouſands Citizens of LONDON CONCERNING The Army, under the Command of the Lord Generall <hi>Fairfax,</hi> and their preſent Proceedings touching the <hi>Treaty;</hi> And the further proceedings of the Citizens concerning the Papers ſent up from the <hi>Army.</hi>
+            </p>
+            <p>Alſo, Ten Propoſitions from His Majeſties loyall Subjects within the Realm of <hi>England,</hi> to the <hi>Citizens</hi> and <hi>Army,</hi> concerning the Reign and Government of their Dread Soveraign Lord King <hi>Charles.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon of the City of London</figDesc>
+            </figure>
+            <p>
+               <add>8ber y<hi rend="sup">e</hi> 12<hi rend="sup">th</hi> 1648</add> Printed for <hi>C. VV.</hi> and are to be ſole neer the Royall Exchange in Cornhill.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162313:2"/>
+            <pb n="1" facs="tcp:162313:2"/>
+            <head>THE PROPOSALS Of the Subjects of ENGLAND Concerning The Reign and Government of their Dread Soveraign Lord the <hi>KING.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ufficient Authority makes a juſt and lawfull Parliament, endued with abſo<g ref="char:EOLhyphen"/>lute power, and not to be diſſolved by a<g ref="char:EOLhyphen"/>ny departure: To which may be added, the third Record or <hi>Act of Continuance,</hi> againſt the which the <hi>King</hi> hath no power, nor any Court in the <hi>Kingdom;</hi> and whatſoever is done with<g ref="char:EOLhyphen"/>out
+<pb n="2" facs="tcp:162313:3"/>it, about it, or againſt it, is void in Law. Hear then poor people theſe poyſoned poſitions penned in pa<g ref="char:EOLhyphen"/>pers againſt the <hi>King, Legis non habet vigorem, quod principi placet,</hi> Bract. <hi>f.</hi> 107. Gods Miniſter ought to do that which is only right, and his will is of no force for a Law, becauſe it ought to ſubſcribe to the Law, and not the Law to it. See Errours for Arguments to move you.</p>
+            <p>There is Art in Errours, and Errours in Arguments are armed with truth:</p>
+            <p>The <hi>King</hi> is to be obeyed, his life preſerved, and his Laws obſerved, and by them, both he and his people are to be protected.</p>
+            <p>His promiſes art to them that ſhall obey his perſo<g ref="char:EOLhyphen"/>nall Comands in his Camp againſt his higheſt Court, condemned of Ordinances.</p>
+            <p>
+               <hi>As first that of the Militia, which deveſts his Majeſty of his power to protect his people.</hi> 2 <hi>That of Men and Money to be laid upon them to protect themſelves.</hi> 3 <hi>To rebell against his perſonall Commands.</hi> 4 <hi>To kill him in his Army.</hi> 5 <hi>To rule him and all his people by an arbitra<g ref="char:EOLhyphen"/>ry Government.</hi> 6 <hi>To change Religion.</hi> 7 <hi>Maintain Re<g ref="char:EOLhyphen"/>bellion.</hi> 8 <hi>Commit his best ſubjects.</hi> 9 <hi>Commend and countenance his enemies. Laſtly, Keep him from his Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p>I ſhall eaſily anſwer all theſe. The <hi>Kings</hi> power to protect his people muſt be known, <hi>what it is, where it is, and in whom it is.</hi> What it is? No Regalt, perſonall, or private power, but a righteous, politike, and publike power. In a word, not the judgment of the <hi>King</hi> meer<g ref="char:EOLhyphen"/>ly Royall, Imperiall, and Arbytrary, but the judgment of the <hi>Kingdom</hi> legally, and judicially performed.</p>
+            <pb n="3" facs="tcp:162313:3"/>
+            <p> 
+               <hi>Where it is?</hi> Not in the <hi>Camp</hi> and <hi>Cabinet</hi> of the <hi>King,</hi> but the great <hi>Councell</hi> of the <hi>Kingdom.</hi>
+            </p>
+            <p>
+               <hi>In whom it is?</hi> Not in the <hi>perſons</hi> departed, but in the three <hi>Perſons</hi> that remain by the <hi>Writ of Suwmans,</hi> and <hi>Act of Continuance.</hi>
+            </p>
+            <p>For the perſons departed againſt both, have no cauſe to call their powers after them, but are condemned by both as violaters of their own Acts, and therefore the buſineſſe to be conſidered, is left in truſt with them, forſaken by the others, and it is not the <hi>Parliament</hi> but the <hi>King</hi> himſelf that deveſts himſelf of his owne po<g ref="char:EOLhyphen"/>wer, by his own Act and default; and having tranſfer<g ref="char:EOLhyphen"/>red his power to his Court, he may not recall it from them.</p>
+            <p n="2">2 <hi>Men and Money;</hi> Anſwer, but the iminent danger the <hi>Parliament</hi> is to take care for, and moſt againſt them that are departed, and call as many as they can at home and abroad to rebell againſt their owne Autho<g ref="char:EOLhyphen"/>rity, for out of <hi>Parliament</hi> they have none; and the Royall power rebels againſt the politique, and the po<g ref="char:EOLhyphen"/>litique defends it where it ought to be, and reſiſts it where no Law can juſtifie it.</p>
+            <p n="3">3 <hi>To rebell againſt the perſonal Commands of the King is no rebellion, but the reſiſtance of wrong, and Re<g ref="char:EOLhyphen"/>bellion is properly againſt the Kings Authority which de<g ref="char:EOLhyphen"/>fends the perſon, and the perſon cannot be ſafe without it, but caſts it ſelf wilfully into peril, to periſh with Rebels againſt the care of the common protection.</hi>
+            </p>
+            <p n="4">
+               <pb n="4" facs="tcp:162313:4"/> 4 To kill the <hi>King</hi> is no good mans intention, and his party is the Argument of the war, which being againſt his own authority, muſt be ſuppreſſed for his ſafety in his own body.</p>
+            <p n="5">5 The Parliament is no Arbitrary Government, and what the three powers do is judiciall in caſes extra<g ref="char:EOLhyphen"/>ordinary, and Ordinances need no other Lawes then their own powers.</p>
+            <p n="6">6 To change what is humane, is no alteration of Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p n="7">7 Rebellion is againſt the Parliament, not by it.</p>
+            <p n="8">8 They are not the beſt ſubjects that reject the Parliament.</p>
+            <p n="9">9 They are not the <hi>Kingdoms</hi> enemies that fight for the Parliament.</p>
+            <p>Laſtly, his Majeſties fears cannot be in his ſupreame Councell, where He and we all are ſafe.</p>
+            <div type="part">
+               <head>A Declaration of the power of a King, and the Loyalty of His Subjects.</head>
+               <p>THE Oath of God binds every Subject to keep the <hi>Kings Commandement,</hi> which he may doe, when he is deemed to doe the contrary, and ſhall not need to make haſt out of his ſight, that face ſhall change for the better, that boldly holds out in well doing. We muſt not ſtand in any evill, for ſo we may ſuffer his juſt diſpleaſure that hath dominion o<g ref="char:EOLhyphen"/>ver us.</p>
+               <p>And therefore all men ought to be carefull of what they are juſtly commanded, and fear not words that
+<pb n="5" facs="tcp:162313:4"/>want warrant. Kings are men, and have their paſſions, and muſt have time to digeſt them, and return where they ſhould be and happy ſhall they be when they un<g ref="char:EOLhyphen"/>derſtand their powers aright.</p>
+               <p>We have waded through a moſt weariſome way, clogged with clamour as the thickeſt clay, or as clouds of duſt that blind every mans eyes, and the more we ſtir, the more we ſtrive to choak our ſelves, and it were happy we were out of the way in ſome other <hi>Kingdom</hi> to ſeek our own peace, if the Parliament may not make it. <hi>The Aſſembly was confuſed, Acts</hi> 19.32. and the major part knew not why they met.</p>
+               <p>Such Aſſemblies there be too many, where multi<g ref="char:EOLhyphen"/>tudes meet.</p>
+               <p>Can any man rejoyce that Tumults turned the <hi>King</hi> from his Councell, and now we hear men rejoyce that they hope the like Tumults will turn the Councell out of the <hi>Kingdom.</hi>
+               </p>
+               <p>And if we loſe both, where ſhall our happineſs be? The beſt deſire is, that both may meet, and except that be, we are like to expect greater Tumults to take all from Us We ſhould ſee better betwixt parties, if we our ſelves would not be parties. The beauty of <hi>truth,</hi> is her nakedneſſe, and therefore ſhe ſeeks no corners: but falſhood is ugly, and therefore like ill complexi<g ref="char:EOLhyphen"/>ons uſeth varniſh. The Parliament paints not, but is plain, and they that have erred ſet Colours on their Cauſes to contend with truth it ſelf.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:162313:5"/>
+               <head>The Declaration of the Citizens of <hi>London,</hi> con<g ref="char:EOLhyphen"/>cerning the Treaty, and the Army.</head>
+               <p>DIvers of the Citizens of <hi>London</hi> having received ſeverall papers from the Army, touching the <hi>Treaty,</hi> and bringing to condigne puniſhment the abet<g ref="char:EOLhyphen"/>tors and fomenters of the late war and commotions within this <hi>Kingdom,</hi> have declared their unanimous. Reſolutions to joyn with them therein, and to live and die, and ſtand and fall with them in the ſaid Ingage<g ref="char:EOLhyphen"/>ment, even for thoſe particulars of common Right and Freedom for which they firſt took up arms; and doe further declare, that they will by Gods aſſiſtance, ſe<g ref="char:EOLhyphen"/>cond them with their utmoſt power and might in their greateſt ſtraights and difficulties againſt all oppoſiti<g ref="char:EOLhyphen"/>on whatſoeve.</p>
+               <p>
+                  <hi>This is the ſenſe and reſolution of many thouſands well affected Citizens in and about the City of</hi> London, <hi>who ſubſcribed to the large Petition, preſented to the Houſe of Commons, concerning a perſonall trea<g ref="char:EOLhyphen"/>ty with the King.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
